@@ -32,6 +32,7 @@
 ul {
     margin: 20px;
     list-style: none;
+    vertical-align:baseline;
 }
 
 .lista {
@@ -45,7 +46,7 @@ ul {
     margin: 10px;
     line-height: 20px;
     border: 2px solid green;
-    border-radius: 50px;
+    border-radius: 50%;
     text-align: center;
     
 }
