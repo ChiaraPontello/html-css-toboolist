@@ -32,9 +32,53 @@
 ul {
     margin: 20px;
     list-style: none;
-    vertical-align:baseline;
 }
 
+li {
+    margin: 10px;
+}
+
+.editorial {
+    background-color:rgb(71, 173, 241);
+    padding: 5px;
+    border-radius: 30%;
+    color: white;
+}
+
+.Q1 {
+    background-color:rgb(156, 114, 228);
+    padding: 5px;
+    border-radius: 30%;
+    color: white;
+}
+
+.recruting {
+    background-color:rgb(71, 173, 241);
+    padding: 5px;
+    border-radius: 30%;
+    color: white;
+}
+
+.mobile {
+    background-color:rgb(71, 173, 241);
+    padding: 5px;
+    border-radius: 30%;
+    color: white;
+}
+
+.website {
+    background-color:rgb(71, 173, 241);
+    padding: 5px;
+    border-radius: 30%;
+    color: white;
+}
+
+.sales {
+    background-color:rgb(71, 173, 241);
+    padding: 5px;
+    border-radius: 30%;
+    color: white;
+}
 .lista {
     display: inline-block;
     text-align: left;
