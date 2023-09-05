@@ -34,11 +34,16 @@ ul {
     list-style: none;
 }
 
+.lista {
+    display: inline-block;
+    text-align: left;
+}
+
 .circle {
     width: 20px;
     height: 20px;
     margin: 10px;
-    line-height: 10px;
+    line-height: 20px;
     border: 2px solid green;
     border-radius: 50px;
     text-align: center;
