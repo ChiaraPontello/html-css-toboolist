@@ -29,9 +29,21 @@
     color: white
 }
 
+ul {
+    margin: 20px;
+    list-style: none;
+}
 
-
-
+.circle {
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+    line-height: 10px;
+    border: 2px solid green;
+    border-radius: 50px;
+    text-align: center;
+    
+}
 
 
 
@@ -55,5 +67,8 @@ colore recruting: rgb(100, 192, 169)
 colore mobile: rgb(241, 154, 43)
 colore website: rgb(216, 99, 161)
 colore sales: rgb(176, 201, 38)
+&#10003;
+&#10007;
+
 */
 
