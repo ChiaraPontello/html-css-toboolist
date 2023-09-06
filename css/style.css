@@ -7,18 +7,35 @@
 .box {
     margin: auto;
     width: 50%;
-    border: 3px solid green;
+    border: 1px solid white;
     padding: 10px;
+    background-color: white;
  }
 
  div {
     margin: 10px;
  }
 
+/* inizio header */
+header {
+    background-color: white;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+
+
+
+
 
 
 
 /* inizio main*/
+.sfondo {
+    background-color: gray ;
+}
+
+
 .task {
     background-color:rgb(71, 173, 241);
     padding: 5px;
@@ -35,7 +52,7 @@ ul {
 }
 
 li {
-    margin: 10px;
+    margin: 20px;
 }
 
 .editorial {
@@ -53,28 +70,28 @@ li {
 }
 
 .recruting {
-    background-color:rgb(71, 173, 241);
+    background-color:rgb(100, 192, 169);
     padding: 5px;
     border-radius: 30%;
     color: white;
 }
 
 .mobile {
-    background-color:rgb(71, 173, 241);
+    background-color: rgb(241, 154, 43);
     padding: 5px;
     border-radius: 30%;
     color: white;
 }
 
 .website {
-    background-color:rgb(71, 173, 241);
+    background-color:rgb(216, 99, 161);
     padding: 5px;
     border-radius: 30%;
     color: white;
 }
 
 .sales {
-    background-color:rgb(71, 173, 241);
+    background-color: rgb(176, 201, 38);
     padding: 5px;
     border-radius: 30%;
     color: white;
