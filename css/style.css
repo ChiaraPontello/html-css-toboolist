@@ -7,7 +7,6 @@
 .box {
     margin: 0 auto;
     width: 50%;
-    border: 1px solid white;
     min-height: 400px;
     border-radius: 10%;
     padding: 10px;
@@ -17,6 +16,7 @@
  div {
     margin: 10px;
  }
+
 
 /* inizio header */
 header {
@@ -32,7 +32,7 @@ header {
 
 /* inizio main*/
 .sfondo {
-    background-color: lightgray ;
+    background-color: rgb(246, 248, 249);
 }
 
 
@@ -45,6 +45,7 @@ header {
 .add {
     color: white
 }
+
 
 ul {
     margin: 20px;
@@ -101,41 +102,35 @@ li {
     text-align: left;
 }
 
-.circle {
+.circle-green {
     width: 20px;
     height: 20px;
-    margin: 10px;
-    line-height: 20px;
+    margin-right: 10px;
+    margin-left:10px;
+    line-height: 10px;
     border: 2px solid green;
     border-radius: 50%;
     text-align: center;
-    
+    font-size: 0.8em;
+    padding:2px;
+}
+
+.circle-red {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-left:10px;
+    line-height: 20px;
+    border: 2px solid red;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 2px;
+
 }
 
 
 
 
 
-
-
-
-/* header: logo +
- colore ffffff +
- h1 Toboolist
- */
-
-/* main:
-colore background: rgb(246, 248, 249)
-colore contenitore: ffffff
-colore add task: rgb(71, 173, 241)
-colore editorial: rgb(69, 171, 234)
-colore Q1: rgb(156, 114, 228)
-colore recruting: rgb(100, 192, 169)
-colore mobile: rgb(241, 154, 43)
-colore website: rgb(216, 99, 161)
-colore sales: rgb(176, 201, 38)
-&#10003;
-&#10007;
-
-*/
 
